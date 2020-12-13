@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5dadc90c70e8f2442c886388"
+  },
+  "code": 760,
+  "name": "1",
+  "type": "Quận",
+  "typename": "Quận 1",
+  "parent_code": 79
+},{
+  "_id": {
+    "$oid": "5dadc98d70e8f2442c886389"
+  },
+  "code": 769,
+  "name": "2",
+  "type": "Quận",
+  "typename": "Quận 2",
+  "parent_code": 79
+},{
+  "_id": {
+    "$oid": "5dadc9ce70e8f2442c88638a"
+  },
+  "code": 770,
+  "name": "3",
+  "type": "Quận",
+  "typename": "Quận 3",
+  "parent_code": 79
+},{
+  "_id": {
+    "$oid": "5dadc9fa70e8f2442c88638b"
+  },
+  "code": 762,
+  "name": "Thủ Đức",
+  "type": "Quận",
+  "typename": "Quận Thủ Đức",
+  "parent_code": 79
+}]

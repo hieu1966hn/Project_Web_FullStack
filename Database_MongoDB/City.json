@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5dadc80870e8f2442c886383"
+  },
+  "code": 89,
+  "name": "An Giang",
+  "type": "Tỉnh",
+  "typename": "Tỉnh An Giang"
+},{
+  "_id": {
+    "$oid": "5dadc85b70e8f2442c886386"
+  },
+  "code": 62,
+  "name": "Kon Tum",
+  "type": "Tỉnh",
+  "typename": "Tỉnh Kon Tum"
+},{
+  "_id": {
+    "$oid": "5dadc8b170e8f2442c886387"
+  },
+  "code": 79,
+  "name": "Hồ Chí Minh",
+  "type": "Thành Phố",
+  "typename": "Thành Phố Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "5df195a79251603bb0f25ba3"
+  },
+  "code": 70,
+  "name": "Bình Phước",
+  "type": "Tỉnh",
+  "typename": "Tỉnh Bình Phước"
+},{
+  "_id": {
+    "$oid": "5df1968a9251603bb0f25ba4"
+  },
+  "code": 75,
+  "name": "Bà Rịa- Vũng Tàu",
+  "type": "Tỉnh",
+  "typename": "Tỉnh Bà Rịa-Vũng Tàu"
+},{
+  "_id": {
+    "$oid": "5df196d09251603bb0f25ba5"
+  },
+  "code": 80,
+  "name": "Long An",
+  "type": "Tỉnh",
+  "typename": "Tỉnh Long An"
+}]

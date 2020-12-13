@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5dadce3e70e8f2442c886390"
+  },
+  "code": 1,
+  "name": "Võ Văn Ngân",
+  "type": "Đường",
+  "typename": "Đường Võ Văn Ngân",
+  "parent_code": 762,
+  "parent_code_city": 79
+},{
+  "_id": {
+    "$oid": "5dadceaf70e8f2442c886392"
+  },
+  "code": 2,
+  "name": "Hoàng Diệu 2",
+  "type": "Đường Hoàng Diệu 2",
+  "typename": "Đường Hoàng Diệu 2",
+  "parent_code": 762,
+  "parent_code_city": 79
+},{
+  "_id": {
+    "$oid": "5df19e493951452f58a05a3c"
+  },
+  "code": 3,
+  "name": "Lê Văn Chí",
+  "type": "Đường",
+  "typename": "Đường Lê Văn Chí",
+  "parent_code": 762,
+  "parent_code_city": 79
+},{
+  "_id": {
+    "$oid": "5df19edc2097062f581ea546"
+  },
+  "code": 4,
+  "name": "Dân Chủ",
+  "type": "Đường",
+  "typename": "Đường Dân Chủ",
+  "parent_code": 762,
+  "parent_code_city": 79
+},{
+  "_id": {
+    "$oid": "5df19f592097062f581ea547"
+  },
+  "code": 1,
+  "name": "Nguyễn Thị Minh Khai",
+  "type": "Đường",
+  "typename": "Đường Nguyễn Thị Minh Khai",
+  "parent_code": 770,
+  "parent_code_city": 79
+},{
+  "_id": {
+    "$oid": "5df19f782097062f581ea548"
+  },
+  "code": 2,
+  "name": "Phạm Ngọc Thạch",
+  "type": "Đường",
+  "typename": "Đường Phạm Ngọc Thạch",
+  "parent_code": 770,
+  "parent_code_city": 79
+}]

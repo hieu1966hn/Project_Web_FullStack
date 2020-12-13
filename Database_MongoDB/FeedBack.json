@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5df1a593275a8d13d43fe646"
+  },
+  "timefeedback": {
+    "$date": "2019-12-12T02:23:32.798Z"
+  },
+  "titelfeedback": "Website rất tốt",
+  "contentfeedback": "Website có giao diện đẹp, các chức năng dễ sử dụng, cố gắng phát triển website tốt hơn",
+  "iduser": "5df1a0e8d7fafe01f8d2d025"
+},{
+  "_id": {
+    "$oid": "5df1a6b6275a8d13d43fe648"
+  },
+  "timefeedback": {
+    "$date": "2019-12-12T02:23:32.798Z"
+  },
+  "titelfeedback": "PhongTroVN tìm kiếm rất nhanh",
+  "contentfeedback": "Website PhongTroVn giúp mình kiếm các tin nhà trọ rất nhanh và chính xác.... Chúc PhongTroVn cố gắng phát triển web tốt hơn",
+  "iduser": "5df1a5d0275a8d13d43fe647"
+},{
+  "_id": {
+    "$oid": "5df330694857f9383069c7f5"
+  },
+  "timefeedback": {
+    "$date": "2019-12-13T05:31:44.878Z"
+  },
+  "titelfeedback": "Website chưa có tốt",
+  "contentfeedback": "Số chức năng trên website còn hạn chế, Admim cố gắng phát triển web tốt hơn để giúp người thuê và người cho thuê một cách nhanh chóng và dễ dàng.",
+  "iduser": "5df2ea5d45e3f22174b5ee84"
+},{
+  "_id": {
+    "$oid": "5df36036f13f8628781f5723"
+  },
+  "timefeedback": {
+    "$date": "2019-12-13T09:52:04.742Z"
+  },
+  "titelfeedback": "Chào PhongTroVn",
+  "contentfeedback": "Website cùi quá",
+  "iduser": "5df2ea5d45e3f22174b5ee84"
+},{
+  "_id": {
+    "$oid": "5df36276674e230c88265a83"
+  },
+  "timefeedback": {
+    "$date": "2019-12-13T09:59:22.660Z"
+  },
+  "titelfeedback": "PhongTroVN",
+  "contentfeedback": "Cảm ơn mọi người !",
+  "iduser": "5df1a5d0275a8d13d43fe647"
+},{
+  "_id": {
+    "$oid": "5ee2e74f807b8f157c073bb7"
+  },
+  "timefeedback": {
+    "$date": "2020-06-12T02:16:26.063Z"
+  },
+  "titelfeedback": "Cảm ơn",
+  "contentfeedback": "Website rất tiện dụng",
+  "iduser": "5ee2e680807b8f157c073bb6"
+}]

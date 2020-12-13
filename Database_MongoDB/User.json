@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "5df199212b9d331540dce023"
+  },
+  "infor": {
+    "male_female": {
+      "male": false,
+      "female": false
+    },
+    "firstname": "Đoàn",
+    "lastname": "Phát",
+    "img_avatar": "http://localhost:3001/nguoi-dung/open_image/nameimage=IMAGE-1576140203799.png"
+  },
+  "local": {
+    "username": "phatdoan12",
+    "password": "$2b$10$Kztc7mbHW4ULWyNnqOpLeeGJNHl5ePu8IyBbX8AzMbDCHj7fSm.VC",
+    "email": "doanphat1208@gmail.com"
+  },
+  "role": "CHUNHATRO",
+  "number_phone": 975547178
+},{
+  "_id": {
+    "$oid": "5df1a0e8d7fafe01f8d2d025"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "firstname": "Búp ",
+    "lastname": "Lê",
+    "img_avatar": "http://localhost:3001/nguoi-dung/open_image/nameimage=IMAGE-1576126889172.jpg"
+  },
+  "local": {
+    "username": "BupCandy",
+    "password": "$2b$10$EsHJzis/Qyzgq2BY3tWwC.aSuVRyUY/LKWfRDosRX6uPXkYEO0MhW",
+    "email": "buple1998@gmail.com"
+  },
+  "role": "CHUNHATRO",
+  "number_phone": 975547178
+},{
+  "_id": {
+    "$oid": "5df1a5d0275a8d13d43fe647"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "firstname": "Phát",
+    "lastname": "Đoàn"
+  },
+  "local": {
+    "username": "doanphat1208",
+    "password": "$2b$10$ZxjFt28PoaSraIebxrVdMOy2RtCQN.DrmNiuIBFGoHvtaLMIr2ZJG",
+    "email": "doanphat9889@gmail.com"
+  },
+  "role": "MEMBER",
+  "number_phone": null
+},{
+  "_id": {
+    "$oid": "5df1a730275a8d13d43fe649"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "firstname": "Việt",
+    "lastname": "Văn"
+  },
+  "local": {
+    "username": "vietvan12",
+    "password": "$2b$10$8Z/RkswqBFyZBX2WCxx4Ees3vyiQxtxBVlDqHN9s0Vxh/YjHfT0wi",
+    "email": "vietvan1208@gmail.com"
+  },
+  "role": "CHUNHATRO",
+  "number_phone": 975547178
+},{
+  "_id": {
+    "$oid": "5df2ea5d45e3f22174b5ee84"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Tiến",
+    "lastname": "Phát"
+  },
+  "local": {
+    "username": "phatdoan",
+    "password": "$2b$10$1.R8P/rIjE8qIq7sjKbmAeISuIPchTWMHJ8Sz7/9dh370wUF6WZg2",
+    "email": "doanphat123@gmail.com"
+  },
+  "role": "CHUNHATRO",
+  "number_phone": 975547178
+},{
+  "_id": {
+    "$oid": "5df36078f13f8628781f5724"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Đoàn",
+    "lastname": "Phat"
+  },
+  "local": {
+    "username": "doanphat12",
+    "password": "$2b$10$5z.ADeFPcaTi8djPoousYOo8qZ3iRzFbE15dDdg36Dn3lhAnHxH6.",
+    "email": "doanphat1208@gmail.com"
+  },
+  "role": "CHUNHATRO",
+  "number_phone": 975547178
+},{
+  "_id": {
+    "$oid": "5df361f4674e230c88265a82"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Đoàn ",
+    "lastname": "Phát"
+  },
+  "local": {
+    "username": "doanphat123",
+    "password": "$2b$10$Cdt..DDTwm25ox7CFKoUWuub7A3as4KGpNWanI41gRcSwRbb1it9W",
+    "email": "doanphat@gmail.com"
+  },
+  "role": "CHUNHATRO",
+  "number_phone": 975547178
+},{
+  "_id": {
+    "$oid": "5e74dc1414a14e458c37d550"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Doan",
+    "lastname": "Phat"
+  },
+  "local": {
+    "username": "DoanPhat12",
+    "password": "$2b$10$niyWU9lXg5K9A4foypIF5OrO1QyZg7yiDD2xwfJ57Y.EU.NtxPte.",
+    "email": "doanphat9889@gmail.com"
+  },
+  "role": "MEMBER",
+  "number_phone": null
+},{
+  "_id": {
+    "$oid": "5e74ddcc72190157c4570f88"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Doan",
+    "lastname": "Phat"
+  },
+  "local": {
+    "username": "DoanPhat1208",
+    "password": "$2a$10$MEAnJE39IzJt.ijvfpnZT./LD4WSie7j3s7KKbsgcxo/xwawWxhOC",
+    "email": "doanphat9889@gmail.com"
+  },
+  "role": "MEMBER",
+  "number_phone": null
+},{
+  "_id": {
+    "$oid": "5e74f1162aaf9d45d0cc049c"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Phat",
+    "lastname": "Doan"
+  },
+  "local": {
+    "username": "bup123",
+    "password": "$2a$10$ykMIqtjOft3Yn.QBMe.7h.Y2BwZ16jvBMfd138AJr2KSMyvs2rBX.",
+    "email": "n@gmail.com"
+  },
+  "role": "MEMBER",
+  "number_phone": null
+},{
+  "_id": {
+    "$oid": "5ee2e4f6528ced0510423226"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Doan",
+    "lastname": "Phat"
+  },
+  "local": {
+    "username": "doanphat111",
+    "password": "$2a$10$BGv3VAdt1jru8PEjH1okbu3.PPhlyGqRbAhVq1NZc0Lj3sAVUMfly",
+    "email": "doanphat9889@gmail.com"
+  },
+  "role": "MEMBER",
+  "number_phone": null
+},{
+  "_id": {
+    "$oid": "5ee2e680807b8f157c073bb6"
+  },
+  "infor": {
+    "male_female": {
+      "male": true,
+      "female": false
+    },
+    "img_avatar": "",
+    "firstname": "Doan",
+    "lastname": "Phat"
+  },
+  "local": {
+    "username": "doanphat15",
+    "password": "$2a$10$3fpduSq0gdbREg/qg.o8uOh91ZStEvduJY5vOoOjF/mlVC9.T1h12",
+    "email": "doanphat1208@gmail.com"
+  },
+  "role": "CHUNHATRO",
+  "number_phone": 975547178
+}]
